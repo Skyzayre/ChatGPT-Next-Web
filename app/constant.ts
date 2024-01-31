@@ -259,7 +259,7 @@ export const DEFAULT_MODELS = [
     },
   },
   {
-    name: "gemini-pro",
+    name: "GeminiPro",
     available: true,
     provider: {
       id: "google",
